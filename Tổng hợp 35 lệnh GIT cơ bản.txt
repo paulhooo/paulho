@@ -1,0 +1,37 @@
+1 Lệnh GIT mức độ cơ bản
+1.1 git config
+1.2 git version
+1.3 git init
+1.4 git clone
+1.5 git add
+1.6 git commit
+1.7 git status
+1.8 git branch
+1.9 git checkout
+2 Lệnh GIT mức độ trung bình
+2.1 git remote
+2.2 git push
+2.3 git fetch
+2.4 git pull
+2.5 git stash
+2.6 git log
+2.7 git shortlog
+2.8 git show
+2.9 git rm
+2.10 git merge
+3 Lệnh GIT mức độ nâng cao
+3.1 git rebase
+3.2 git bisect
+3.3 git cherry-pick
+3.4  git archive
+3.5 git pull –rebase
+3.6 git blame
+3.7 git tag
+3.8 git verify-commit
+3.9 git verify-tag
+3.10 git diff
+3.11 git citool
+3.12 git mv
+3.13 git clean
+3.14 git help
+3.15 git whatchanged
